@@ -1,0 +1,10 @@
+<?php 
+$servername = "localhost";
+$username = "root"; //usuario (utilicen el nombre de usuario que ustedes tienen en su SQL)
+$password = "root"; //contraseña (utilicen la contraseña de usuario que ustedes tienen en su SQL )
+$database = "kisane_store"; //nombre de la base de datos
+
+
+
+$title_page = "Bienvenido a la tienda Kisane Store";
+$title_welcome = "¡Bienvenido a la tienda Kisane Store!";
